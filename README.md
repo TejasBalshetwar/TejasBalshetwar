@@ -4,7 +4,7 @@
 - 📫 How to reach me <br>
       - Instagram: @tejas.py <br>
       - Twitter: @tej_97598 <br>
-      - Mail: tejasbalshetwar12@gmail.com <br>
+      - Mail: tejasbalshetwar@gmail.com <br>
 
 <!---
 TejasBalshetwar/TejasBalshetwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
